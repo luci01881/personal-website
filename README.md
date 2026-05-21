@@ -5,7 +5,7 @@ A sleek, responsive, and high-performance personal portfolio website built with 
 ## 🚀 Live Demo
 
 You can view the live deployment of this portfolio here:
-👉 **[Your GitHub Pages URL Here]**
+👉 **https://luci01881.github.io/**
 
 ## ✨ Features
 
